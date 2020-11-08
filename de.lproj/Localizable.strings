@@ -1,0 +1,145 @@
+/* 
+  Localizable.strings
+  Soundrocket
+
+  Created by Sebastian Boldt on 09.01.15.
+  Copyright (c) 2015 sebastianboldt. All rights reserved.
+*/
+
+"This track is not streamable" = "Dieser Track kann nicht gestreamed werden";
+"loading" = "Wird geladen ...";
+
+/* Sign in */
+"email" = "E-Mail";
+"password" = "Passwort";
+
+"sign in with SoundCloud" = "Mit SoundCloud einloggen";
+"sign in with Facebook" = "Mit Facebook einloggen";
+
+"logout" = "Ausloggen";
+"Please enter email and password first" = "Bitte geben sie zuerst E-Mail und Passwort ein";
+"Something went wrong, please try again" = "Ups, da lief etwas schief. Bitte versuche es erneut";
+
+/* Menu */
+
+"Stream" = "Stream";
+"Likes" = "Favoriten";
+"Playlists" = "Playlisten";
+"Search" = "Suche";
+"About" = "About";
+"Downloads" = "Downloads";
+"History" = "Verlauf";
+"Settings" = "Einstellungen";
+
+/* User Page */
+
+"Tracks (%@)" = "Tracks (%@)";
+"Playlists (%@)" = "Playlisten (%@)";
+"Likes (%@)" = "Favoriten (%@)";
+"People who follow %@" = "Benutzer die %@ folgen";
+"People %@ follows" = "Benutzer denen %@ folgt";
+"You unfollowed %@" = "Du folgst %@ jetzt nicht mehr";
+"You are now following %@" = "Du folgst jetzt %@";
+
+/* Playlists */
+
+"Create Playlist" = "Erzeuge eine Playlist";
+"Public" = "Öffentlich";
+"Enter the Name of the Playlist here" = "Gebe den Namen der Playlist hier ein";
+"Deleting playlist" = "Playlist wird gelöscht";
+"Playlist removed" = "Playlist gelöscht";
+"Add to Playlist" = "   Zur Playlist hinzufügen";
+"playlist removed" = "Playlist gelöscht";
+/* History */
+"People who like this track" = "   Leute, denen dieser Track gefällt";
+
+/* Search */
+"User" = "Benutzer";
+"Users" = "Benutzer";
+"SEARCH_HINT" = "Suche nach Musik, Nutzern oder Playlisten";
+
+/* About */
+
+"Rate this App" = "   Bewerte diese App";
+"Developers Website" = "   Webseite des Entwicklers";
+"Contact me" = "   Kontaktieren sie mich";
+"Support" = "   Support";
+"My Soundcloud Profile" = "    Folge mir auf SoundCloud";
+"Like Soundrocket on Facebook" = "    Soundrocket auf Facebook";
+
+/* tutorial pages */
+"page0" = "Willkommen bei Soundrocket, dein neuer Soundcloud Client";
+"page1" = "Suchen, Playlists erzeugen oder deinen Verlauf anschauen, alle Optionen sind in der Sidebar verfügbar";
+"page2" = "Tippe auf den Miniplayer um den Vollbild Player anzuzeigen";
+"page3" = "Entdecke Soundcloud neu, favorisiere Songs, lese und schreibe Kommentare oder höre einfach nur deine Lieblingsmusik";
+"page4" = "Wenn du Kommentare schreiben willst tippe lange auf die Kommentar Sektion";
+"page8" = "Mit Soundrocket PRO kannst du deinen Verlauf sehen und Kommentare lesen und schreiben";
+"page5" = "Wische mit 2 Fingern nach unten um den Chat mit unserem Support Team zu starten";
+"Active" = "Aktiviert ";
+
+
+/* Soundrocekt Pro */
+"This Feature is just available for Soundrocket PRO User" = "Diese Funktion ist nur für Soundrocket PRO Nutzer verfügbar";
+"Tell me more" = "Ich will mehr wissen";
+"limit_reached" = "Du hast das Limit von 2000 Kommentaren erreicht. Um weiterhin Kommentare lesen zu können benötigst du Soundrocket PRO";
+"PRO_MESSAGE" = "Mit Soundrocket PRO kannst du unbegrenzt Kommentare lesen und schreiben, und deinen Wiedergabeverlauf sehen";
+"Thank you for purchasing Soundrocket PRO" = "Danke für den Kauf von Soundrocket PRO";
+"Read and write comments" = "Lese und schreibe Kommentare";
+"See your playback history" = "Sehe deinen Wiedergabeverlauf";
+"Remove Get PRO Banner" = "PRO Banner entfernen";
+"Download downloadable Track" = "Lade downloadbare Lieder herunter";
+"Cancel" = "Abbrechen";
+
+"Update Playlist" = "Playlist aktualisieren";
+"Create Playlist" = "Playlist anlegen";
+"Creating Playlist" = "Playlist wird angelegt ...";
+"Updating playlist" = "Playlist wird aktualisiert ...";
+"Created Playlist" = "Playlist wurde angelegt";
+"Updated Playlist" = "Playlist wurde aktualisiert";
+"public" = "öffentlich";
+"Back to Player" = "Zurück zum Player";
+
+// Client ID Setup
+"help" = "Brauchst du Hilfe ?";
+
+"CLIENT_ID_DESCRIPTION" = "Soundcloud hat Play-Limits für Entwickler Apps eingeführt. Im Klartext bedeutet dies, dass alle Soundrocket User die die offizielle Soundrocket Dev APP nutzen insgesamt nicht mehr als 15.000 plays pro tag erreichen dürfen. Damit du trotzdem unbegrenzt Musik abspielen kannst, musst du dir mit den folgenden Schritten dein eigenes Token erzeugen und hier einfügen.";
+
+"register your app" = "3. Registriere eine neue App";
+"click your apps" = "2. Klicke auf YOUR APPS";
+"Set your Client ID" = "Setze deine Client ID";
+"Save client ID" = "Speichere deine Client ID";
+
+
+// NEW
+"No Description" = "Keine Beschreibung";
+
+/* Action Sheet */
+"ACTION_SHEET_TITLE" = "Optionen";
+"ACTION_SHEET_PLAY_NOW" = "Jetzt abspielen";
+"ACTION_SHEET_SHOW_USER" = "Benutzer zeigen";
+"ACTION_SHEET_SHARE" = "Teilen";
+"ACTION_SHEET_REPOST_TRACK" = "Track reposten";
+"ACTION_SHEET_ADD_TO_PLAYLIST" = "Zur Playlist hinzufügen";
+"ACTION_SHEET_DELETE_PLAYLIST" = "Playlist löschen";
+"ACTION_SHEET_DELETE_FROM_PLAYLIST" = "Von Playlist löschen";
+
+/* Tabbar */
+"TABBAR_ACTIVITIES_TITLE" = "Stream";
+"TABBAR_PLAYLISTS_TITLE" = "Playlisten";
+"TABBAR_SEARCH_TITLE"  = "Suche";
+"TABBAR_HISTORY_TITLE" = "Verlauf";
+"TABBAR_MY_PROFILE_TITLE" = "Profil";
+
+/* Profil Tabbar */
+"PROFILE_TABBAR_TRACKS_TITLE" = "%@ Tracks";
+"PROFILE_TABBAR_PLAYLISTS_TITLE" = "%@ Playlisten";
+"PROFILE_TABBAR_LIKES_TITLE"  = "%@ Favoriten";
+"PROFILE_TABBAR_FOLLOWERS_TITLE" = "%@ Followers";
+"PROFILE_TABBAR_FOLLOWINGS_TITLE" = "%@ Followings";
+
+/* About Page */
+"ABOUT_PAGE_GET_SOUNDROCKET_PRO_LABEL" = "Soundrocket PRO";
+
+
+/* COMMENTS PAGE */
+"COMMENTS_PAGE_COMMENTS_TITLE" = "Kommentare";

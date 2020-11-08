@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>411C8EE9-89E0-4684-880F-1E7135E84A80</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Soundrocket</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>5B0518AAB6B0BA8AAA3D23A3468D71FEAF2B6D95</key>
+		<string>https://github.com/SebastianBoldt/Soundrocket.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Soundrocket.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>5B0518AAB6B0BA8AAA3D23A3468D71FEAF2B6D95</key>
+		<string>..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/SebastianBoldt/Soundrocket.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>5B0518AAB6B0BA8AAA3D23A3468D71FEAF2B6D95</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>5B0518AAB6B0BA8AAA3D23A3468D71FEAF2B6D95</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Soundrocket</string>
+		</dict>
+	</array>
+</dict>
+</plist>

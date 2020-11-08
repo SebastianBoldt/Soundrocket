@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>0CF7BED0-A174-4323-BF8E-A42845B0AAA7</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Soundrocket</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>5B0518AAB6B0BA8AAA3D23A3468D71FEAF2B6D95</key>
+		<string>https://bitbucket.org/selfdealloc/soundrocket-ios.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Soundrocket.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>5B0518AAB6B0BA8AAA3D23A3468D71FEAF2B6D95</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://bitbucket.org/selfdealloc/soundrocket-ios.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>5B0518AAB6B0BA8AAA3D23A3468D71FEAF2B6D95</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>5B0518AAB6B0BA8AAA3D23A3468D71FEAF2B6D95</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Soundrocket</string>
+		</dict>
+	</array>
+</dict>
+</plist>

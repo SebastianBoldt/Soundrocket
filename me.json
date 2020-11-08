@@ -1,0 +1,64 @@
+{
+    "avatar_url":
+    "https://i1.sndcdn.com/avatars-000071003572-p30vez-large.jpg",
+    "city":
+    "London",
+    "country":
+    null,
+    "description":
+    "Six free tracks and mixes to be given out over the next six months in return for an email:  check out maxcooper.net for more information.",
+    "discogs_name":
+    "Max+Cooper",
+    "first_name":
+    "Max",
+    "followers_count":
+    95590,
+    "followings_count":
+    68,
+    "full_name":
+    "Max Cooper",
+    "id":
+    79981,
+    "kind":
+    "user",
+    "last_modified":
+    "2016/01/07 20:12:04 +0000",
+    "last_name":
+    "Cooper",
+    "myspace_name":
+    null,
+    "online":
+    false,
+    "permalink":
+    "max-cooper",
+    "permalink_url":
+    "http://soundcloud.com/max-cooper",
+    "plan":
+    "Pro Plus",
+    "playlist_count":
+    18,
+    "public_favorites_count":
+    0,
+    "subscriptions":
+    [
+     {
+     "product":
+     {
+     "id":
+     "creator-pro-unlimited",
+     "name":
+     "Pro Unlimited"
+     }
+     }
+     ],
+    "track_count":
+    113,
+    "uri":
+    "https://api.soundcloud.com/users/79981",
+    "username":
+    "Max Cooper",
+    "website":
+    "http://www.maxcooper.net",
+    "website_title":
+    ""
+}

@@ -1,0 +1,11 @@
+###################### More Options ######################
+# If you want to have even more control, check out the documentation
+# https://github.com/fastlane/deliver/blob/master/Deliverfile.md
+
+
+###################### Automatically generated ######################
+# Feel free to remove the following line if you use fastlane (which you should)
+
+app_identifier "com.sebastianboldt.Soundrocket" # The bundle identifier of your app
+username "sebastian.boldt.1989@googlemail.com" # your Apple ID user
+submit_for_review false

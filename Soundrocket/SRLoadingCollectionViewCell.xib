@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="9531" systemVersion="15C50" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES">
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="9529"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <collectionReusableView opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" reuseIdentifier="SRLoadingCollectionViewCell" id="Pmj-Gx-8IQ" customClass="SRLoadingCollectionViewCell">
+            <rect key="frame" x="0.0" y="0.0" width="320" height="50"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <subviews>
+                <activityIndicatorView opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" hidesWhenStopped="YES" animating="YES" style="gray" translatesAutoresizingMaskIntoConstraints="NO" id="XYQ-NO-E8a">
+                    <rect key="frame" x="150" y="15" width="20" height="20"/>
+                </activityIndicatorView>
+            </subviews>
+            <constraints>
+                <constraint firstItem="XYQ-NO-E8a" firstAttribute="centerY" secondItem="Pmj-Gx-8IQ" secondAttribute="centerY" id="P0i-kU-HfC"/>
+                <constraint firstItem="XYQ-NO-E8a" firstAttribute="centerX" secondItem="Pmj-Gx-8IQ" secondAttribute="centerX" id="o0h-tz-uRh"/>
+            </constraints>
+            <connections>
+                <outlet property="loadingIndicator" destination="XYQ-NO-E8a" id="feO-WI-nMV"/>
+            </connections>
+            <point key="canvasLocation" x="286" y="323"/>
+        </collectionReusableView>
+    </objects>
+</document>

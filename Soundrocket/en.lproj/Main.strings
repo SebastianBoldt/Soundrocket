@@ -1,0 +1,210 @@
+
+/* Class = "UILabel"; text = "Rate this App"; ObjectID = "01H-EW-KUP"; */
+"01H-EW-KUP.text" = "Rate this App";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "1AK-kk-ZdZ"; */
+"1AK-kk-ZdZ.text" = "Label";
+
+/* Class = "UILabel"; text = "O"; ObjectID = "1Gf-xh-dqV"; */
+"1Gf-xh-dqV.text" = "O";
+
+/* Class = "UILabel"; text = "O"; ObjectID = "1MV-3w-h0g"; */
+"1MV-3w-h0g.text" = "O";
+
+/* Class = "UILabel"; text = "History"; ObjectID = "1fc-Q9-5KE"; */
+"1fc-Q9-5KE.text" = "History";
+
+/* Class = "UILabel"; text = "Public"; ObjectID = "1um-Ab-hmL"; */
+"1um-Ab-hmL.text" = "Public";
+
+/* Class = "UILabel"; text = "Downloads"; ObjectID = "2Cx-0R-173"; */
+"2Cx-0R-173.text" = "Downloads";
+
+/* Class = "UILabel"; text = "O"; ObjectID = "34C-OO-3N7"; */
+"34C-OO-3N7.text" = "O";
+
+/* Class = "UILabel"; text = "O"; ObjectID = "4Kh-5C-VHV"; */
+"4Kh-5C-VHV.text" = "O";
+
+/* Class = "UILabel"; text = "Likes"; ObjectID = "4a9-Lq-ryw"; */
+"4a9-Lq-ryw.text" = "Likes";
+
+/* Class = "UILabel"; text = "2. Click on YOUR APPS"; ObjectID = "4cR-h8-ZPF"; */
+"4cR-h8-ZPF.text" = "2. Click on YOUR APPS";
+
+/* Class = "UILabel"; text = "3. Register a new Application"; ObjectID = "5YS-Nf-5eO"; */
+"5YS-Nf-5eO.text" = "3. Register a new Application";
+
+/* Class = "UILabel"; text = "My Soundcloud Profile"; ObjectID = "5wl-py-fHO"; */
+"5wl-py-fHO.text" = "My Soundcloud Profile";
+
+/* Class = "UINavigationItem"; title = "About"; ObjectID = "6cC-Gh-mxQ"; */
+"6cC-Gh-mxQ.title" = "About";
+
+/* Class = "UILabel"; text = "Set your Client ID"; ObjectID = "7zq-6e-zhS"; */
+"7zq-6e-zhS.text" = "Set your Client ID";
+
+/* Class = "UILabel"; text = "About"; ObjectID = "84M-yj-mLz"; */
+"84M-yj-mLz.text" = "About";
+
+/* Class = "UILabel"; text = "Read and Write Comments"; ObjectID = "8Hv-M0-s5J"; */
+"8Hv-M0-s5J.text" = "Read and Write Comments";
+
+/* Class = "UITextField"; placeholder = "Paste the Client ID here"; ObjectID = "C49-gD-v0Q"; */
+"C49-gD-v0Q.placeholder" = "Paste the Client ID here";
+
+/* Class = "UILabel"; text = "Tap and Hold to write the first comment"; ObjectID = "CsF-Av-chS"; */
+"CsF-Av-chS.text" = "Tap and Hold to write the first comment";
+
+/* Class = "UILabel"; text = "0:00 / 0:00"; ObjectID = "Csq-lc-Yq2"; */
+"Csq-lc-Yq2.text" = "0:00 / 0:00";
+
+/* Class = "UILabel"; text = "O"; ObjectID = "Df5-wd-Fed"; */
+"Df5-wd-Fed.text" = "O";
+
+/* Class = "UITextField"; placeholder = "E-Mail"; ObjectID = "EBQ-yc-Bmh"; */
+"EBQ-yc-Bmh.placeholder" = "E-Mail";
+
+/* Class = "UIButton"; normalTitle = "Save Client ID"; ObjectID = "EjU-uI-9ec"; */
+"EjU-uI-9ec.normalTitle" = "Save Client ID";
+
+/* Class = "UIButton"; normalTitle = "X"; ObjectID = "F7s-ne-d6U"; */
+"F7s-ne-d6U.normalTitle" = "X";
+
+/* Class = "UILabel"; text = "O"; ObjectID = "GBP-Rv-7nb"; */
+"GBP-Rv-7nb.text" = "O";
+
+/* Class = "UITextView"; text = "Soundcloud has introduces RATE Limits to all Apps that uses there API. So basically that means that all Users together can just play 15.000 Tracks a day. If you experience that streaming does not work as expected and you want to stream an unlimited amount of Tracks a day using Soundrocket you have to create your own Developer Application in 3 easy steps and then paste the client id in here "; ObjectID = "Gea-Pr-k07"; */
+"Gea-Pr-k07.text" = "Soundcloud has introduces RATE Limits to all Apps that uses there API. So basically that means that all Users together can just play 15.000 Tracks a day. If you experience that streaming does not work as expected and you want to stream an unlimited amount of Tracks a day using Soundrocket you have to create your own Developer Application in 3 easy steps and then paste the client id in here ";
+
+/* Class = "UIButton"; normalTitle = ">"; ObjectID = "HTK-4G-viD"; */
+"HTK-4G-viD.normalTitle" = ">";
+
+/* Class = "UILabel"; text = "O"; ObjectID = "IPR-5P-2Wy"; */
+"IPR-5P-2Wy.text" = "O";
+
+/* Class = "UIBarButtonItem"; title = "| | |"; ObjectID = "JTi-aV-s9L"; */
+"JTi-aV-s9L.title" = "| | |";
+
+/* Class = "UILabel"; text = "Stream"; ObjectID = "Jba-wh-MGT"; */
+"Jba-wh-MGT.text" = "Stream";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "Kv8-82-oRN"; */
+"Kv8-82-oRN.title" = "Item";
+
+/* Class = "UILabel"; text = "Contact"; ObjectID = "L93-zG-iQi"; */
+"L93-zG-iQi.text" = "Contact";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Okd-5J-uFG"; */
+"Okd-5J-uFG.text" = "Label";
+
+/* Class = "UILabel"; text = "History Function"; ObjectID = "OpY-Dr-lkf"; */
+"OpY-Dr-lkf.text" = "History Function";
+
+/* Class = "UILabel"; text = "Contact"; ObjectID = "P7x-Tn-u4T"; */
+"P7x-Tn-u4T.text" = "Contact";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Qzr-UL-kpE"; */
+"Qzr-UL-kpE.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "O"; ObjectID = "RYl-uK-NTG"; */
+"RYl-uK-NTG.text" = "O";
+
+/* Class = "UILabel"; text = "O"; ObjectID = "Rpl-qY-TJY"; */
+"Rpl-qY-TJY.text" = "O";
+
+/* Class = "UILabel"; text = "O"; ObjectID = "RxN-Dk-KIP"; */
+"RxN-Dk-KIP.text" = "O";
+
+/* Class = "UILabel"; text = "Logout"; ObjectID = "XGt-QM-ttn"; */
+"XGt-QM-ttn.text" = "Logout";
+
+/* Class = "UITextField"; placeholder = "Name"; ObjectID = "Xc1-cl-7pX"; */
+"Xc1-cl-7pX.placeholder" = "Name";
+
+/* Class = "UILabel"; text = "O"; ObjectID = "Xpy-9r-1HW"; */
+"Xpy-9r-1HW.text" = "O";
+
+/* Class = "UILabel"; text = "powered by SoundCloud®"; ObjectID = "Ybu-BR-2AZ"; */
+"Ybu-BR-2AZ.text" = "powered by SoundCloud®";
+
+/* Class = "UIButton"; normalTitle = "<"; ObjectID = "ZpP-07-jzt"; */
+"ZpP-07-jzt.normalTitle" = "<";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "acZ-ri-yKl"; */
+"acZ-ri-yKl.placeholder" = "Password";
+
+/* Class = "UILabel"; text = "O"; ObjectID = "bW5-1A-Shr"; */
+"bW5-1A-Shr.text" = "O";
+
+/* Class = "UILabel"; text = "Track"; ObjectID = "bok-yg-dMU"; */
+"bok-yg-dMU.text" = "Track";
+
+/* Class = "UIButton"; normalTitle = "Play"; ObjectID = "c5I-fT-prQ"; */
+"c5I-fT-prQ.normalTitle" = "Play";
+
+/* Class = "UIButton"; normalTitle = "Play"; ObjectID = "e5E-4k-q50"; */
+"e5E-4k-q50.normalTitle" = "Play";
+
+/* Class = "UILabel"; text = "Soundrocket"; ObjectID = "eH2-5O-cQa"; */
+"eH2-5O-cQa.text" = "Soundrocket";
+
+/* Class = "UILabel"; text = "O"; ObjectID = "gep-nB-4CB"; */
+"gep-nB-4CB.text" = "O";
+
+/* Class = "UISearchBar"; placeholder = "Search"; ObjectID = "giD-jw-WLq"; */
+"giD-jw-WLq.placeholder" = "Search";
+
+/* Class = "UISearchBar"; giD-jw-WLq.scopeButtonTitles[0] = "Tracks"; ObjectID = "giD-jw-WLq"; */
+"giD-jw-WLq.scopeButtonTitles[0]" = "Tracks";
+
+/* Class = "UISearchBar"; giD-jw-WLq.scopeButtonTitles[1] = "Users"; ObjectID = "giD-jw-WLq"; */
+"giD-jw-WLq.scopeButtonTitles[1]" = "Users";
+
+/* Class = "UISearchBar"; giD-jw-WLq.scopeButtonTitles[2] = "Playlists"; ObjectID = "giD-jw-WLq"; */
+"giD-jw-WLq.scopeButtonTitles[2]" = "Playlists";
+
+/* Class = "UILabel"; text = "Playlists"; ObjectID = "gvH-fK-6Kj"; */
+"gvH-fK-6Kj.text" = "Playlists";
+
+/* Class = "UILabel"; text = "Website"; ObjectID = "gzf-Ru-s2a"; */
+"gzf-Ru-s2a.text" = "Website";
+
+/* Class = "UITableViewController"; title = "Up Next"; ObjectID = "iOl-AE-XPs"; */
+"iOl-AE-XPs.title" = "Up Next";
+
+/* Class = "UILabel"; text = "Facebook"; ObjectID = "iqB-6l-3AA"; */
+"iqB-6l-3AA.text" = "Facebook";
+
+/* Class = "UITextView"; text = "©2015 Sebastian Boldt"; ObjectID = "mQ9-78-jXs"; */
+"mQ9-78-jXs.text" = "©2015 Sebastian Boldt";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "mSg-kR-I02"; */
+"mSg-kR-I02.text" = "Label";
+
+/* Class = "UILabel"; text = "PRO"; ObjectID = "mzK-OE-2u0"; */
+"mzK-OE-2u0.text" = "PRO";
+
+/* Class = "UIButton"; normalTitle = "Sign in with SoundCloud"; ObjectID = "nzc-CI-dTs"; */
+"nzc-CI-dTs.normalTitle" = "Sign in with SoundCloud";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "piv-7m-6ik"; */
+"piv-7m-6ik.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "powered by SoundCloud®"; ObjectID = "sXg-Th-qfs"; */
+"sXg-Th-qfs.text" = "powered by SoundCloud®";
+
+/* Class = "UILabel"; text = "Search"; ObjectID = "sYM-8k-ZWL"; */
+"sYM-8k-ZWL.text" = "Search";
+
+/* Class = "UILabel"; text = "Downloads"; ObjectID = "tKY-c3-mvW"; */
+"tKY-c3-mvW.text" = "Downloads";
+
+/* Class = "UILabel"; text = "Download downloadable Tracks"; ObjectID = "uVa-ok-ggE"; */
+"uVa-ok-ggE.text" = "Download downloadable Tracks";
+
+/* Class = "UILabel"; text = "Settings"; ObjectID = "vM7-yh-WBH"; */
+"vM7-yh-WBH.text" = "Settings";
+
+/* Class = "UIButton"; normalTitle = "Create Playlist"; ObjectID = "zlS-C5-VS8"; */
+"zlS-C5-VS8.normalTitle" = "Create Playlist";

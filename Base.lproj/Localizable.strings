@@ -1,0 +1,143 @@
+/*
+ Localizable.strings
+ Soundrocket
+ 
+ Created by Sebastian Boldt on 09.01.15.
+ Copyright (c) 2015 sebastianboldt. All rights reserved.
+ */
+"This track is not streamable" = "This track is not streamable";
+"loading" = "Loading ...";
+
+/* Sign in */
+"email" = "Email";
+"password" = "Password";
+
+"sign in with SoundCloud" = "Sign in with Soundcloud";
+"sign in with Facebook" = "Sign in with Facebook";
+
+"logout" = "Logout";
+"Please enter email and password first" = "Please enter email and password first";
+"Something went wrong, please try again" = "Oops something went wrong please try again";
+
+/* Menu */
+
+"Stream" = "Stream";
+"Likes" = "Likes";
+"Playlists" = "Playlists";
+"Search" = "Search";
+"About" = "About";
+"Downloads" = "Downloads";
+"History" = "History";
+"Settings" = "Settings";
+
+/* User Page */
+
+"Tracks (%@)" = "Tracks (%@)";
+"Playlists (%@)" = "Playlists (%@)";
+"Likes (%@)" = "Likes (%@)";
+"People who follow %@" = "People who follow %@";
+"People %@ follows" = "People %@ follows";
+"You unfollowed %@" = "You unfollowed %@";
+"You are now following %@" = "You are following %@ now";
+
+/* Playlists */
+
+"Create Playlist" = "Create Playlist";
+"Public" = "Public";
+"Enter the Name of the Playlist here" = "Enter the name of the playlist here";
+"Deleting playlist" = "Deleting playlist";
+"Playlist removed" = "Playlist removed";
+"Add to Playlist" = "   Add to Playlist";
+"playlist removed" = "Playlist removed";
+/* History */
+"People who like this track" = "   People who like this track";
+
+/* Search */
+"User" = "User";
+"Users" = "Users";
+"SEARCH_HINT" = "Search for Tracks, Users or Playlists";
+
+
+/* About */
+
+"Rate this App" = "   Rate this App";
+"Developers Website" = "   Developers Website";
+"Contact me" = "   Contact me";
+"Support" = "   Support";
+"My Soundcloud Profile" = "    Follow me on SoundCloud";
+"Like Soundrocket on Facebook" = "    Soundrocket on Facebook";
+
+
+/* tutorial pages */
+"page0" = "Welcome to Soundrocket, a simple yet powerful SoundCloud© client";
+"page1" = "Search, create Playlists or just look through your History, all options available in the sidebar menu";
+"page2" = "Tap on the Miniplayer to reveal the beautiful fullscreen player";
+"page3" = "The player lets you discover SoundCloud© in a completely new way, like your Tracks, read and write comments or just listen";
+"page4" = "If you want to write comments just tap and hold on the comments area";
+"page8" = "With Soundrocket PRO you can download downloadable tracks and much more ..";
+"page5" = "With a two finger swipe down, you can access the support section to give direct feedback";
+"Active" = "Active ";
+
+
+/* Soundrocket Pro*/
+"This Feature is just available for Soundrocket PRO User" = "This feature is just available for Soundrocket PRO user";
+"Tell me more" = "Tell me more";
+"PRO_MESSAGE" = "Soundrocket PRO enables you to read and write an umlimited amount of comments and to see your playback history";
+"Thank you for purchasing Soundrocket PRO" = "Thank you for purchasing Soundrocket PRO";
+"Read and write comments" = "Read and write comments";
+"See your playback history" = "See your playback history";
+"Remove Get PRO Banner" = "Remove Get Pro Banner";
+"Download downloadable Track" = "Download downloadable tracks";
+"Cancel" = "Cancel";
+
+"Update Playlist" = "update playlist";
+"Create Playlist" = "create playlist";
+"Creating Playlist" = "creating playlist ...";
+"Updating playlist" = "updating playlist ...";
+"Created Playlist" = "created playlist";
+"Updated Playlist" = "updated playlist";
+"public" = "public";
+"Back to Player" = "Back to Player";
+
+"help" = "Need help ?";
+
+"CLIENT_ID_DESCRIPTION" = "Soundcloud has introduces RATE Limits to all Apps that uses there API. So basically that means that all Users together can just play 15.000 Tracks a day. If you experience that streaming does not work as expected and you want to stream an unlimited amount of Tracks a day using Soundrocket you have to create your own Developer Application in 3 easy steps and then paste the client id in here ";
+"register your app" = "3. Register a new App";
+"click your apps" = "2. Click on YOUR APPS";
+"Set your Client ID" = "Set your Client ID";
+"Save client ID" = "Save your Client ID";
+
+
+// NEW
+"No Description" = "No Description";
+
+/* Action Sheet */
+"ACTION_SHEET_TITLE" = "Options";
+"ACTION_SHEET_PLAY_NOW" = "Play Now";
+"ACTION_SHEET_SHOW_USER" = "Show User";
+"ACTION_SHEET_SHARE" = "Share";
+"ACTION_SHEET_REPOST_TRACK" = "Repost Track";
+"ACTION_SHEET_ADD_TO_PLAYLIST" = "Add to Playlist";
+"ACTION_SHEET_DELETE_PLAYLIST" = "Delete Playlist";
+"ACTION_SHEET_DELETE_FROM_PLAYLIST" = "Delete from Playlist";
+
+/* Tabbar */
+"TABBAR_ACTIVITIES_TITLE" = "Stream";
+"TABBAR_PLAYLISTS_TITLE" = "Playlists";
+"TABBAR_SEARCH_TITLE"  = "Search";
+"TABBAR_HISTORY_TITLE" = "History";
+"TABBAR_MY_PROFILE_TITLE" = "Profile";
+
+/* Profil Tabbar */
+"PROFILE_TABBAR_TRACKS_TITLE" = "%@ Tracks";
+"PROFILE_TABBAR_PLAYLISTS_TITLE" = "%@ Playlists";
+"PROFILE_TABBAR_LIKES_TITLE"  = "%@ Likes";
+"PROFILE_TABBAR_FOLLOWERS_TITLE" = "%@ Followers";
+"PROFILE_TABBAR_FOLLOWINGS_TITLE" = "%@ Followings";
+
+/* About Page */
+"ABOUT_PAGE_GET_SOUNDROCKET_PRO_LABEL" = "Soundrocket Pro";
+
+
+/* COMMENTS PAGE */
+"COMMENTS_PAGE_COMMENTS_TITLE" = "Comments";

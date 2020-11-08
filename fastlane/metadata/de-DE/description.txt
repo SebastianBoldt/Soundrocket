@@ -1,0 +1,13 @@
+Soundrocket ist ein SoundCloud® client für iOS
+
+• Sehe deinen Wiedergabeverlauf
+• Lese und schreibe Kommentare
+• Verwalte deine Playlisten
+• Entdecke neue Musik und Sammle sie auf deiner Favoriten Liste
+• Entdecke und Folge anderen Nutzern
+• Suche nach Nutzern, Playlisten und Tracks
+• Reposte Tracks die dir gefallen ..
+
+... und vieles mehr
+
+Viel Spaß

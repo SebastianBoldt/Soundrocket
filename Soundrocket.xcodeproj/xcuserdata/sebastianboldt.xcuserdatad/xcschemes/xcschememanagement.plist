@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>Complication - Soundrocket Watch App.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>31</integer>
+		</dict>
+		<key>Complication - Soundrocketwatch.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>27</integer>
+		</dict>
+		<key>Glance - Soundrocket Watch App.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>30</integer>
+		</dict>
+		<key>Glance - Soundrocket WatchKit App.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>3</integer>
+		</dict>
+		<key>Glance - Soundrocketwatch.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>26</integer>
+		</dict>
+		<key>Notification - Soundrocket Watch App.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>29</integer>
+		</dict>
+		<key>Notification - Soundrocket WatchKit App.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+		<key>Notification - Soundrocketwatch.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>25</integer>
+		</dict>
+		<key>Soundrocket Watch App.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>28</integer>
+		</dict>
+		<key>Soundrocket WatchKit App.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+		<key>Soundrocket.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+		<key>Soundrocketwatch.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>24</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>1548CDB11ABE0692003662B1</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>158FE3F61B28D44D00D62AB8</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>159D89C61A495A6C009C8078</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>159D89E21A495A6C009C8078</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>15A186521BB3287000302D89</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>15A186601BB5D9CB00302D89</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>15A186921BB5DA1D00302D89</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>

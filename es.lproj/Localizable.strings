@@ -1,0 +1,54 @@
+/* 
+  Localizable.strings
+  Soundrocket
+
+  Created by Sebastian Boldt on 09.01.15.
+  Copyright (c) 2015 sebastianboldt. All rights reserved.
+*/
+
+/* Sign in */
+"email" = "email";
+"password" = "password";
+"sign in with SoundCloud" = "Sign in with Soundcloud";
+"logout" = "Logout";
+
+/* Menu */
+
+"Stream" = "Stream";
+"Likes" = "Likes";
+"Playlists" = "Playlists";
+"Search" = "Search";
+"About" = "About";
+
+/* User Page */
+
+"Tracks" = "Tracks";
+"People who follows %@" = "People who follows %@";
+"People %@ follow" = "People %@ follows";
+"You unfollowed %@" = "You unfollowed %@";
+"You are now following %@" = "You are now following %@";
+
+/* Playlists */
+
+"Create Playlist" = "Create Playlist";
+"Public" = "Public";
+"Enter the Name of the Playlist here" = "Enter the Name of the Playlist here";
+
+/* Search */
+
+"Users" = "Users";
+
+/* About */
+
+"Rate this App" = "Rate this App";
+"Developers Website" = "Developers Website";
+"Contact me" = "Contact me";
+"Support" = "Support";
+
+/* tutorial pages */
+
+"page1" = "swipe a track or playlist to the right to get to the user";
+"page2" = "tap the miniplayer to reveal the fullscreen player";
+"page3" = "simple swipe through comments";
+"page4" = "tap and hold the comments section to compose a comment";
+"page5" = "delete tracks or playlists by swiping to the left";
