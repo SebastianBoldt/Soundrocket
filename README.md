@@ -1,4 +1,4 @@
-# This is my first app that made it into the Appstore in 2015. Since Soundcloud didn't support the connected API some months later, I quit maintaining the project. At the time of development, I didn't have much experience in code architecture and structure.  Still, the app is compiling and runs surprisingly well, which was reason enough for me to make the project open source here, even if the code is not a feast for the eyes 🥳
+# This is my first app that made it into the Appstore in 2015. Since Soundcloud didn't support the connected API some months later, I quit maintaining the project. At the time of development, I didn't have much experience in code architecture and structure.  Still, the app is compiling and runs surprisingly well, which was reason enough for me to make it open source here, even if the code is not a feast for the eyes 🥳
 
 # Soundrocket
 
