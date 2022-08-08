@@ -3,9 +3,9 @@
 <img src="https://github.com/SebastianBoldt/Soundrocket/blob/main/Github/header.png?raw=true" />
 <img src="https://github.com/SebastianBoldt/Soundrocket/blob/main/Github/features.jpg?raw=true" />
 
-### This is my first app that made it into the Appstore in 2015. Since Soundcloud didn't support the connected API some months later, I quit maintaining the project. At the time of development, I didn't have much experience in code architecture and structure.  Still, the app is compiling and runs surprisingly well, which was reason enough for me to make it open source here, even if the code is not a feast for the eyes 🥳
-
 ## Soundrocket is an unofficial SoundCloud® client for iOS
+
+This is my first app that made it into the Appstore in 2015. Since Soundcloud didn't support the connected API some months later, I quit maintaining the project. At the time of development, I didn't have much experience in code architecture and structure.  Still, the app is compiling and runs surprisingly well, which was reason enough for me to make it open source here, even if the code is not a feast for the eyes 🥳
 
 ### 3.0.2
 * iPad share crash fix √
